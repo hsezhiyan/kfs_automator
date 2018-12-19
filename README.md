@@ -21,6 +21,6 @@ This is ongoing. Currently, I've been able to extract basic text like invoice/ac
  The following is an image of a raw document ready to be processed, with the important extractable information highlighted in red:
  <br><br> <img src="/img/raw_doc_kfs.png" width="400" height="400" alt="Raw Document"/>
 
- The following is an snippet of the finalized document with the inputted information. Note not all fields in the form are requireed.
+ The following is an snippet of the finalized document with the inputted information. Note not all fields in the form are required.
  <br><br> <img src="/img/filled_in_kfs.png" width="400" height="400" alt="Inputted Form"/>
  
