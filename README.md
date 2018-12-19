@@ -19,7 +19,7 @@ This is ongoing. Currently, I've been able to extract basic text like invoice/ac
  `python interact_kfs.py`
 
  The following is an image of a raw document ready to be processed, with the important extractable information highlighted in red:
- <br><br> <img src="/img/raw_doc_kfs.png" alt="Raw Document"/ width="50%" height="50%">
+ <br><br> <img src="/img/raw_doc_kfs.png" alt="Raw Document"/>
 
  The following is an snippet of the finalized document with the inputted information. Note not all fields in the form are requireed.
  <br><br> <img src="/img/filled_in_kfs.png" alt="Inputted Form"/>
